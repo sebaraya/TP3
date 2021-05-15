@@ -1,0 +1,30 @@
+[
+  {
+    "titulo": "recepcion",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "control de ingreso",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "ubicar por sistema",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "hacer reclamos",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "descargar en sistema",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "liberar pago a compras",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "despacho",
+    "estado": "pendiente"
+  }
+]
